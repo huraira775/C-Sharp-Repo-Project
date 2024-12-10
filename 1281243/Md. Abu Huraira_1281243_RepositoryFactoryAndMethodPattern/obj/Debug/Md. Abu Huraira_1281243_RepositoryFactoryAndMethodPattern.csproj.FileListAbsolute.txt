@@ -1,0 +1,39 @@
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+E:\RepositoryFactoryAndMethodPattern\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+E:\RepositoryFactoryAndMethodPattern\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+E:\RepositoryFactoryAndMethodPattern\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
+E:\RepositoryFactoryAndMethodPattern\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+E:\RepositoryFactoryAndMethodPattern\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+E:\RepositoryFactoryAndMethodPattern\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+E:\RepositoryFactoryAndMethodPattern\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+\\192.168.188.234\Shared\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+\\192.168.188.234\Shared\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+\\192.168.188.234\Shared\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+\\192.168.188.234\Shared\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+C:\Users\LAB104-07\Desktop\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+C:\Users\LAB104-07\Desktop\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+C:\Users\LAB104-07\Desktop\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
+C:\Users\LAB104-07\Desktop\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+C:\Users\LAB104-07\Desktop\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-07\Desktop\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+C:\Users\LAB104-07\Desktop\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+D:\R59\M3\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+D:\R59\M3\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+D:\R59\M3\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
+D:\R59\M3\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+D:\R59\M3\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+D:\R59\M3\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+D:\R59\M3\Projects\Md. Abu Huraira_1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+G:\Project_R59_ACSL\1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+G:\Project_R59_ACSL\1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+G:\Project_R59_ACSL\1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
+G:\Project_R59_ACSL\1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+G:\Project_R59_ACSL\1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+G:\Project_R59_ACSL\1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+G:\Project_R59_ACSL\1281243\Md. Abu Huraira_1281243_RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb

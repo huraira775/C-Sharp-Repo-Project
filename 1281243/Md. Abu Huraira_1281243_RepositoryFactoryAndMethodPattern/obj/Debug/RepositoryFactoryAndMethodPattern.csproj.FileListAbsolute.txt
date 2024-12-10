@@ -1,0 +1,21 @@
+E:\C#\Evidence practices\Mid evidence practice on Products\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+E:\C#\Evidence practices\Mid evidence practice on Products\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+E:\C#\Evidence practices\Mid evidence practice on Products\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
+E:\C#\Evidence practices\Mid evidence practice on Products\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+E:\C#\Evidence practices\Mid evidence practice on Products\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+E:\C#\Evidence practices\Mid evidence practice on Products\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+E:\C#\Evidence practices\Mid evidence practice on Products\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+E:\IDB Course related Details\C#\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+E:\IDB Course related Details\C#\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+E:\IDB Course related Details\C#\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+E:\IDB Course related Details\C#\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+E:\IDB Course related Details\C#\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+E:\IDB Course related Details\C#\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+E:\IDB Course related Details\C#\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.csproj.AssemblyReference.cache
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.csproj.CoreCompileInputs.cache
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.exe
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\obj\Debug\RepositoryFactoryAndMethodPattern.pdb
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe.config
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.exe
+F:\IDB Course related Details\C#\Projects\My project\RepositoryFactoryAndMethodPattern\RepositoryFactoryAndMethodPattern\bin\Debug\RepositoryFactoryAndMethodPattern.pdb
